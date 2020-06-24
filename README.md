@@ -228,6 +228,7 @@ Repository
 │  │  ├── Readme.md
 │  ├── /Region/
 │  ├── /Services/
+├── /Scripts/
 ├── LICENSE
 └── Readme.md
 ```
@@ -246,16 +247,19 @@ Repository
 
 
 # **6️⃣来源与鸣谢**
-- [ConnersHua](https://github.com/ConnersHua)
-- [lhie1](https://github.com/lhie1)
+- [@anti-AD V4](https://github.com/privacy-protection-tools/anti-AD)
+- [@ConnersHua](https://github.com/ConnersHua)
+- [@lhie1](https://github.com/lhie1)
 - Lison Bin
-- [linjiacheng](https://github.com/linjiacheng)
-- Booui
-- liceva
-- [JO2EY](https://github.com/JO2EY) 
-- [Choler](https://github.com/Choler)
-- [xream](https://github.com/xream)
-- [gkeyes](https://github.com/gkeyes)
+- [@linjiacheng](https://github.com/linjiacheng)
+- @Booui
+- @liceva
+- [@JO2EY](https://github.com/JO2EY) 
+- [@Choler](https://github.com/Choler)
+- [@xream](https://github.com/xream)
+- [@gkeyes](https://github.com/gkeyes)
+- [@LeeeMooo](https://github.com/LeeeMooo)
+- [@uranuswch](https://github.com/uranuswch)
 
 # **7️⃣许可与说明**
 
@@ -270,7 +274,6 @@ Repository
 - 此处的文字仅用于说明，条款以LICENSE文件中的内容为准。
 
 - 请在遵守当地相关法律法规的前提下使用本项目，我们不为使用此项目内容出现问题负任何责任。
-
 
 
 
